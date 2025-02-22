@@ -17,12 +17,13 @@ autocorrect – Context-based spelling correction
 fuzzywuzzy, strsimpy – String similarity and fuzzy matching
 
 ### Machine Learning Models:
-sklearn.linear_model.LogisticRegression – Logistic Regression
-sklearn.svm.SVC – Support Vector Machine
-sklearn.naive_bayes.MultinomialNB – Naïve Bayes for text classification
-sklearn.ensemble.RandomForestClassifier – Random Forest Classifier
-xgboost.XGBClassifier – XGBoost
-sklearn.tree.DecisionTreeClassifier – Decision Trees
+Logistic Regression
+Support Vector Machine
+Naïve Bayes for text classification
+Random Forest Classifier
+XGBoost
+Decision Trees
+KNN
 
 ### Dataset Handling & Visualization:
 pandas – Data management and preprocessing
